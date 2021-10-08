@@ -1,4 +1,4 @@
-token: "MCHicQwuTU7bsHxY"    # Lidraughts OAuth2 Token.
+token: "CEhyyhaCbXgLuTVs"    # Lidraughts OAuth2 Token.
 url: "https://lidraughts.org/"  # Lidraughts base URL.
 engine:                      # Engine settings.
   dir: "./engines/"          # Directory containing engines, relative to this project.
