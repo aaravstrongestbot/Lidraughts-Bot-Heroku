@@ -1,6 +1,5 @@
-token: "xxxxxxxxxxxxxxxx"    # Lidraughts OAuth2 Token.
+token: "MCHicQwuTU7bsHxY"    # Lidraughts OAuth2 Token.
 url: "https://lidraughts.org/"  # Lidraughts base URL.
-
 engine:                      # Engine settings.
   dir: "./engines/"          # Directory containing engines, relative to this project.
   name: "scan"               # Binary name of the engine to use.
